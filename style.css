@@ -1,0 +1,35 @@
+body {
+    background-image: url('background-image1.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    padding: 20px;
+}
+
+.title {
+    font-size: 36px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
+
+footer {
+    margin-top: 50px;
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+
+#font-size-span {
+    display: block;
+    font-size: 18px;
+    margin-top: 10px;
+}
